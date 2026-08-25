@@ -27,8 +27,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=williamdosreis&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas Gerais" />
-  <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=williamdosreis&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Principais Linguagens" />
+  <img height="150em" src="https://github-readme-stats-fast.vercel.app/api?username=williamdosreis&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas Gerais" />
+  <img height="150em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=williamdosreis&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Principais Linguagens" />
 </p>
 
 <p align="center">
