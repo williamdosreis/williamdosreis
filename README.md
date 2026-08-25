@@ -1,6 +1,6 @@
 <!-- Header Animado -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=09090b,0891b2&height=180&section=header&text=William%20Andrade&fontSize=38&fontAlignY=36&fontColor=ffffff&desc=Network%20%26%20Infrastructure%20Analyst&descFontSize=16&descAlignY=58&descAlign=50" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,11&height=180&section=header&text=William%20Andrade&fontSize=38&fontAlignY=36&fontColor=ffffff&desc=Network%20and%20Infrastructure%20Analyst&descFontSize=16&descAlignY=58&descAlign=50" width="100%" alt="William Andrade" />
 </p>
 
 <!-- Badges -->
@@ -11,12 +11,8 @@
   <img src="https://img.shields.io/badge/Docker-Enabled-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-<!-- Redes Sociais sem caracteres residuais -->
-<p align="center">
-  <a href="https://github.com/williamdosreis" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="30" height="30" alt="GitHub" /></a>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/empty.svg" width="10" height="1" alt="" />
-  <a href="https://www.linkedin.com/in/williamandradedosreis/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="30" height="30" alt="LinkedIn" /></a>
-</p>
+<!-- Redes Sociais sem sublinhado -->
+<p align="center"><a href="https://github.com/williamdosreis" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="30" height="30" alt="GitHub" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/williamandradedosreis/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="30" height="30" alt="LinkedIn" /></a></p>
 
 ---
 
@@ -31,8 +27,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="155em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=williamdosreis&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas Gerais" />
-  <img height="155em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=williamdosreis&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Principais Linguagens" />
+  <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=williamdosreis&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas Gerais" />
+  <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=williamdosreis&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Principais Linguagens" />
 </p>
 
 <p align="center">
@@ -43,8 +39,8 @@
 
 ### 📌 Sobre & Foco Técnico
 
-- 🔭 **Atuação:** Suporte avançado, infraestrutura hospitalar, redes corporativas e automação de rotinas (Batch/PowerShell/Bash).
-- 🛡️ **Interesses:** Arquitetura de Redes, Segurança Ofensiva/Defensiva (CyberOps), Virtualização e Containers.
+- 🔭 **Atuação:** Suporte avançado, infraestrutura corporativa/hospitalar, redes e automação (Batch/PowerShell/Bash).
+- 🛡️ **Interesses:** Arquitetura de Redes, Segurança da Informação (CyberOps), Virtualização e Containers.
 - 🌱 **No radar:** Aprimoramento contínuo em automação de infraestrutura, Linux e Cloud.
 
 ---
