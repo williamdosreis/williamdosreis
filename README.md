@@ -13,7 +13,7 @@
 
 <!-- Redes Sociais -->
 <p align="center">
-  <a href="https://github.com/williamandradedosreis" target="_blank" rel="noreferrer">
+  <a href="https://github.com/williamdosreis" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
@@ -21,7 +21,7 @@
     </picture>
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/williamandradedosreis/" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
@@ -43,12 +43,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=williamandradedosreis&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas Gerais" />
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamandradedosreis&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Principais Linguagens" />
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=williamdosreis&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas Gerais" />
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamdosreis&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Principais Linguagens" />
 </div>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=williamandradedosreis&theme=tokyonight&hide_border=true" alt="Streak de Commits" />
+  <img src="https://streak-stats.demolab.com/?user=williamdosreis&theme=tokyonight&hide_border=true" alt="Streak de Commits" />
 </p>
 
 ---
@@ -62,4 +62,5 @@
 ---
 
 ### 📫 Contato
-- 💼 **LinkedIn:** [Acesse meu perfil]([https://www.linkedin.com/in/SEU_LINKEDIN](https://www.linkedin.com/in/williamandradedosreis/))
+- 💼 **LinkedIn:** [williamandradedosreis](https://www.linkedin.com/in/williamandradedosreis/)
+- ✉️ **E-mail:** seu.email@exemplo.com
