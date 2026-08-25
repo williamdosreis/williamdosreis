@@ -47,4 +47,3 @@
 
 ### 📫 Contato
 - 💼 **LinkedIn:** [williamandradedosreis](https://www.linkedin.com/in/williamandradedosreis/)
-- ✉️ **E-mail:** seu.email@exemplo.com
